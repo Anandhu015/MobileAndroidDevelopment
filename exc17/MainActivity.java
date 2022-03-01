@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         bm=(Button)findViewById(R.id.mul);
         bdiv=(Button)findViewById(R.id.div);
         bq=(Button)findViewById(R.id.total);
-        b1=(Button)findViewById(R.id.n1);
+  
         bac=(Button)findViewById(R.id.ac);
         t1=(EditText) findViewById(R.id.editTextNumber);
         b1.setOnClickListener(new View.OnClickListener() {
